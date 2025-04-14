@@ -1,0 +1,4 @@
+apiversion: v1
+knind: pod
+metadata: api
+spec: 8gb
